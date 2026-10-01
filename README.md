@@ -1,5 +1,7 @@
 # Role Map (Option B: Notifications)
 
+**Base Commit Hash:** `34fdf5c8f735caa21bcf1e963121f5cd701b1e17`
+
 | Pattern Role | Class / Interface | Source Path |
 | :--- | :--- | :--- |
 | **Abstraction** | `Notification` | `src/Notification.java` |
